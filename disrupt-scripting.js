@@ -2122,7 +2122,6 @@ var Application = function() {
 				}
 			}
 			else {
-				selectorText = cssRule.selectorText.replace(/[#|\s|*]?/g, "");
 
 				if (viewIds.indexOf(selectorText)!=-1) {
 					//stateValue = self.getStyleRuleValue(cssRule, stateName);
