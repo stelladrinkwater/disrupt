@@ -1,0 +1,1488 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: 'Boston';
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+
+@font-face {
+    font-family: "Boston";
+    src: url('Boston-Regular.ttf'); 
+} 
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+    font-family: 'Boston';
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 10805px;
+	font-family: 'Boston';
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: Boston;
+}
+#Rectangle_33 {
+	opacity: 0.1;
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 1139px;
+	height: 359px;
+	left: 390px;
+	top: 5063px;
+}
+#Rectangle_34 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 15px;
+	left: 1008px;
+	top: 5124px;
+}
+#Rectangle_17 {
+	opacity: 0.1;
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1399px;
+	left: 0px;
+	top: 2406px;
+}
+#Rectangle_26 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 56px;
+	left: 197px;
+	top: 3074px;
+}
+#Rectangle_27 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 56px;
+	left: 641px;
+	top: 3074px;
+}
+#Rectangle_28 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 56px;
+	left: 1085px;
+	top: 3074px;
+}
+#Rectangle_29 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	height: 56px;
+	left: 1529px;
+	top: 3074px;
+}
+#Rectangle_14 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_14 {
+	width: 702px;
+	height: 41px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,801.4187,1283.876) rotate(-2deg);
+	transform-origin: center;
+}
+#Rectangle_32 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_32 {
+	width: 523px;
+	height: 41px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,968.4664,5742.0439) rotate(-2deg);
+	transform-origin: center;
+}
+#Rectangle_41 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_41 {
+	width: 444px;
+	height: 41px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1103.5802,9173.3736) rotate(-2deg);
+	transform-origin: center;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 641px;
+	height: 898px;
+	left: 1279px;
+	top: 180px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 30px;
+	left: 94px;
+	top: 559px;
+}
+#Rectangle_1 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_1 {
+	width: 2003px;
+	height: 111px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-55.4812,152.4339) rotate(-3deg);
+	transform-origin: center;
+}
+#The_Social_Impact_Lab {
+	left: 86px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "Boston";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Disrupt-ATHON {
+	left: 86px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 1029px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(0,0,0,1);
+}
+#Lets_responsibly_disrupt_the__ {
+	left: 94px;
+	top: 373px;
+	position: absolute;
+	overflow: visible;
+	width: 1160px;
+	height: 240px;
+	line-height: 115px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 563px;
+	left: 1356px;
+	top: 365px;
+}
+#Rectangle_5 {
+	opacity: 0.609;
+	fill: rgba(109,110,113,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 170px;
+	left: 1416px;
+	top: 446px;
+}
+#Count_Down_Clock_to_EOD_July_7 {
+	left: 1465px;
+	top: 507px;
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#July_8-15_2020 {
+	left: 1469px;
+	top: 690px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_6 {
+	fill: rgba(33,96,147,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 68px;
+	left: 1441px;
+	top: 772px;
+}
+#Register_Now {
+	left: 1516px;
+	top: 796px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Responsible_Disruption {
+	left: 1487px;
+	top: 1020px;
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_7 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 209px;
+	left: 93px;
+	top: 749px;
+}
+#Rectangle_9 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 209px;
+	left: 490px;
+	top: 749px;
+}
+#Rectangle_11 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 209px;
+	left: 887px;
+	top: 749px;
+}
+#What_is_the__Disrupt-athon {
+	left: 113px;
+	top: 787px;
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 81px;
+	line-height: 37px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: "Boston";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#What_is_the_food_system {
+	left: 510px;
+	top: 787px;
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 81px;
+	line-height: 37px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Get_all_the_details_about_the_ {
+	left: 907px;
+	top: 787px;
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 81px;
+	line-height: 37px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_8 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 40px;
+	left: 139px;
+	top: 888px;
+}
+#Rectangle_10 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 40px;
+	left: 536px;
+	top: 888px;
+}
+#Rectangle_12 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 40px;
+	left: 933px;
+	top: 888px;
+}
+#Learn_more {
+	left: 187px;
+	top: 901px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -9.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Learn_more_bd {
+	left: 584px;
+	top: 901px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -9.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Learn_more_be {
+	left: 981px;
+	top: 901px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -9.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#What_is_a_Disrupt-ATHON {
+	left: 404px;
+	top: 1213.887px;
+	position: absolute;
+	overflow: visible;
+	width: 1311px;
+	height: 96px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(0,0,0,1);
+}
+#What_are_we_disrupting {
+	left: 390px;
+	top: 5671.887px;
+	position: absolute;
+	overflow: visible;
+	width: 1140px;
+	height: 96px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(0,0,0,1);
+}
+#Frequently_asked_questions {
+	left: 390.5px;
+	top: 9106.887px;
+	position: absolute;
+	overflow: visible;
+	width: 1140px;
+	height: 96px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(0,0,0,1);
+}
+#hannah-busing-Zyx1bK9mqmA-unsp {
+	position: absolute;
+	width: 842px;
+	height: 561px;
+	left: 243px;
+	top: 1667px;
+	overflow: visible;
+}
+#A_Disrupt-ATHON_is_a_virtual_e {
+	left: 241.5px;
+	top: 1379px;
+	position: absolute;
+	overflow: visible;
+	width: 1437px;
+	height: 207px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#The_food_system {
+	left: 242px;
+	top: 5849px;
+	position: absolute;
+	overflow: visible;
+	width: 1437px;
+	height: 64px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_15 {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 561px;
+	left: 242px;
+	top: 1667px;
+}
+#Rectangle_16 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 1130px;
+	top: 1667px;
+}
+#Rectangle_30 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 94px;
+	top: 2575px;
+}
+#Rectangle_31 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 94px;
+	top: 4010px;
+}
+#There_are_excellent_ideas_in_o {
+	left: 1130px;
+	top: 1696px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 237px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 1435px;
+	height: 561px;
+	left: 242.5px;
+	top: 6006px;
+	overflow: visible;
+}
+#hannah-busing-Zyx1bK9mqmA-unsp_br {
+	position: absolute;
+	width: 842px;
+	height: 561px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_37 {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 561px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_38 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 888px;
+	top: 0px;
+}
+#There_are_excellent_ideas_in_o_bu {
+	left: 888px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 237px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 1435px;
+	height: 561px;
+	left: 242.5px;
+	top: 7500px;
+	overflow: visible;
+}
+#hannah-busing-Zyx1bK9mqmA-unsp_bw {
+	position: absolute;
+	width: 842px;
+	height: 561px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_37_bx {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_37_bx {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 561px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_38_by {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_38_by {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 888px;
+	top: 0px;
+}
+#There_are_excellent_ideas_in_o_bz {
+	left: 888px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 237px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 1435px;
+	height: 561px;
+	left: 242px;
+	top: 6753px;
+	overflow: visible;
+}
+#hannah-busing-Zyx1bK9mqmA-unsp_b {
+	position: absolute;
+	width: 842px;
+	height: 561px;
+	left: 593px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_40 {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 561px;
+	left: 592px;
+	top: 0px;
+}
+#Rectangle_39 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#There_are_excellent_ideas_in_o_b {
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 237px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#We_need_______________________ {
+	left: 233px;
+	top: 4150px;
+	position: absolute;
+	overflow: visible;
+	width: 1484px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_18 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4145px;
+}
+#Rectangle_19 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4223px;
+}
+#Rectangle_20 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4299px;
+}
+#Rectangle_21 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4375px;
+}
+#Rectangle_22 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4451px;
+}
+#Rectangle_36 {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 62px;
+	left: 446px;
+	top: 4527px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 374px;
+	height: 3px;
+	left: 436.5px;
+	top: 4190.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#The_most_successful_sustainabl {
+	left: 241.5px;
+	top: 4633.5px;
+	position: absolute;
+	overflow: visible;
+	width: 697px;
+	height: 391px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#How_does_it_work {
+	left: 94px;
+	top: 2512px;
+	position: absolute;
+	overflow: visible;
+	width: 696px;
+	height: 51px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Who_should_participate {
+	left: 94px;
+	top: 3947px;
+	position: absolute;
+	overflow: visible;
+	width: 696px;
+	height: 51px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#The_Disrupt-athon_will_connect {
+	left: 982px;
+	top: 4634px;
+	position: absolute;
+	overflow: hidden;
+	width: 696px;
+	height: 312px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_23 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 161px;
+	left: 538.5px;
+	top: 3441px;
+}
+#This_is_a_100_virtual_event__A {
+	left: 582.5px;
+	top: 3478px;
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 90px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_25 {
+	fill: rgba(33,96,147,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 68px;
+	left: 811.5px;
+	top: 3643px;
+}
+#Rectangle_35 {
+	fill: rgba(33,96,147,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 68px;
+	left: 811.5px;
+	top: 5324px;
+}
+#Register_Now_cl {
+	left: 886.5px;
+	top: 3667px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Join_Open_City_now {
+	left: 853.5px;
+	top: 5348px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 251px;
+	left: 167px;
+	top: 2718px;
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 251px;
+	left: 609px;
+	top: 2718px;
+}
+#Ellipse_3 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 251px;
+	left: 1052px;
+	top: 2718px;
+}
+#Ellipse_4 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 251px;
+	left: 1494px;
+	top: 2718px;
+}
+#Now_-_July_7_2020 {
+	left: 167px;
+	top: 3026px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 32px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(109,110,113,1);
+}
+#July_8_2020 {
+	left: 609px;
+	top: 3026px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 32px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(109,110,113,1);
+}
+#July_8_-_13_2020 {
+	left: 1051px;
+	top: 3026px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 32px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(109,110,113,1);
+}
+#July_15_2020 {
+	left: 1494px;
+	top: 3032px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 32px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(109,110,113,1);
+}
+#Register {
+	left: 94px;
+	top: 3081px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 69px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Kickoff {
+	left: 538.5px;
+	top: 3081px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 69px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Co-create {
+	left: 982.5px;
+	top: 3081px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 69px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Share {
+	left: 1426.5px;
+	top: 3081px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 69px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Register_in_Open_City_today_to {
+	left: 94px;
+	top: 3166px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 197px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#The_Disrupt-ATHON_kicks_off_wi {
+	left: 538px;
+	top: 3166px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 197px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Spend_five_days_learning_about {
+	left: 982px;
+	top: 3166px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 197px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Ten_teams_will_present_their_i {
+	left: 1426px;
+	top: 3166px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	height: 197px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1326px;
+	height: 20px;
+	left: 293.5px;
+	top: 2850.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#explorers_collaborators_makers {
+	left: 462px;
+	top: 4221px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 372px;
+	line-height: 75px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Another_Way_to_Participate_Be_ {
+	left: 538px;
+	top: 5100px;
+	position: absolute;
+	overflow: visible;
+	width: 844px;
+	height: 196px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_5 {
+	position: absolute;
+	width: 1435px;
+	height: 561px;
+	left: 242.5px;
+	top: 8247px;
+	overflow: visible;
+}
+#hannah-busing-Zyx1bK9mqmA-unsp_c {
+	position: absolute;
+	width: 842px;
+	height: 561px;
+	left: 593px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_40_c {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_40_c {
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	height: 561px;
+	left: 592px;
+	top: 0px;
+}
+#Rectangle_39_c {
+	fill: rgba(195,214,0,1);
+}
+.Rectangle_39_c {
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#There_are_excellent_ideas_in_o_da {
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	height: 237px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_42 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 1731px;
+	height: 103px;
+	left: 94px;
+	top: 9280px;
+}
+#Rectangle_43 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 1731px;
+	height: 103px;
+	left: 94.5px;
+	top: 9423px;
+}
+#Rectangle_44 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 1731px;
+	height: 573px;
+	left: 94.5px;
+	top: 9566px;
+}
+#Question_text {
+	left: 151.5px;
+	top: 9314px;
+	position: absolute;
+	overflow: visible;
+	width: 1307px;
+	height: 34px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Question_text_df {
+	left: 152px;
+	top: 9457px;
+	position: absolute;
+	overflow: visible;
+	width: 1307px;
+	height: 34px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Question_text_dg {
+	left: 152px;
+	top: 9600px;
+	position: absolute;
+	overflow: visible;
+	width: 1307px;
+	height: 34px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Answer_text_could_be_a_paragra {
+	left: 152px;
+	top: 9666px;
+	position: absolute;
+	overflow: visible;
+	width: 1571px;
+	height: 361px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Ellipse_5 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 33px;
+	left: 1772px;
+	top: 9588px;
+}
+#x {
+	opacity: 0.05;
+	left: 1781px;
+	top: 9589px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_45 {
+	opacity: 0.05;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 538px;
+	left: 0px;
+	top: 10267px;
+}
+#FOOTER_-_CONTENT_TBA {
+	left: 214px;
+	top: 10416px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	height: 230px;
+	line-height: 39px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Boston, Boston;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
